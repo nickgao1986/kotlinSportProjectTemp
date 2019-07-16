@@ -5,7 +5,6 @@ import android.util.Log
 class KotlinTest {
 
     fun test() {
-        Log.d("TAG", "<<<<<test")
 
     }
 }
